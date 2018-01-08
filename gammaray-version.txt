@@ -1,1 +1,1 @@
-[VERSION][VERSIONNUMBER]1.1.0.0[DOWNLOAD]http://scontrol.tk/[/]
+[VERSION][VERSIONNUMBER]1.2.0.0[DOWNLOAD]http://scontrol.tk/[/]
