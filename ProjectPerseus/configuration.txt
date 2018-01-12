@@ -1,5 +1,5 @@
-[CONFIGURL][ANNOUNCEMENTS][/]
-[CONFIGURL][VERSION][/]
+[CONFIGURL][ANNOUNCEMENTS]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/announcements.txt[/]
+[CONFIGURL][VERSION]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/version.txt[/]
 [CONFIGURL][ACCESS]http://scontrol.tk/Applications/External/NebulaInjector/nb_infodata.php[/]
 [CONFIGURL][HELP]http://scontrol.tk/[/]
 [CONFIGURL][TICKET]http://scontrol.tk/[/]
