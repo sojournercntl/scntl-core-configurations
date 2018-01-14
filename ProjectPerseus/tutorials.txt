@@ -3,6 +3,6 @@
 [TUTORIAL][NAME]DevelopmentInsights #1[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail2.jpg[LINK]http://scontrol.tk/[/]
 [TUTORIAL][NAME]Getting Started[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail3.jpg[LINK]http://scontrol.tk/[/]
 [TUTORIAL][NAME]Using the Binary Analysis[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail4.jpg[LINK]http://scontrol.tk/[/]
-[TUTORIAL][NAME]Using the Media Analysis[IMAGE][https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail4.jpg[LINK]http://scontrol.tk/[/]
+[TUTORIAL][NAME]Using the Media Analysis[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail4.jpg[LINK]http://scontrol.tk/[/]
 [TUTORIAL][NAME]Understanding the Analysis Part I[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail5.jpg[LINK]http://scontrol.tk/[/]
 [TUTORIAL][NAME]Understanding the Analysis Part II[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail5.jpg[LINK]http://scontrol.tk/[/]
