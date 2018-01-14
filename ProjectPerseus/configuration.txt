@@ -5,3 +5,4 @@
 [CONFIGURL][TICKET]http://scontrol.tk/[/]
 [CONFIGURL][CHANGELOG]http://scontrol.tk/[/]
 [CONFIGURL][WEBSITE]http://scontrol.tk/[/]
+[CONFIGURL][TUTORIALS]http://scontrol.tk/[/]
