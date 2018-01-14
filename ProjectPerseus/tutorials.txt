@@ -1,1 +1,1 @@
-[TUTORIAL][NAME]Sojournercntl / Welcome[IMAGE][LINK]http://scontrol.tk/[/]
+[TUTORIAL][NAME]Sojournercntl / Welcome[IMAGE]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/TutorialThumbnails/thumbnail1.jpg[LINK]http://scontrol.tk/[/]

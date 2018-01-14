@@ -5,4 +5,4 @@
 [CONFIGURL][TICKET]http://scontrol.tk/[/]
 [CONFIGURL][CHANGELOG]http://scontrol.tk/[/]
 [CONFIGURL][WEBSITE]http://scontrol.tk/[/]
-[CONFIGURL][TUTORIALS]http://scontrol.tk/[/]
+[CONFIGURL][TUTORIALS]https://raw.githubusercontent.com/sojournercntl/scntl-core-configurations/freeware-configuration/ProjectPerseus/tutorials.txt[/]
